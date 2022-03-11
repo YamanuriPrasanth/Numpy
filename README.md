@@ -9,3 +9,6 @@
 >You'll learn how to read in data into DataFrame structures, how to query these structures, and the details about such structures are indexed.<br>
 >you'll deepen your understanding of the python pandas library by learning how to merge DataFrames, generate summary tables, group data into logical pieces, and manipulate dates.<br>
 >We'll also refresh your understanding of scales of data, and discuss issues with creating metrics for analysis.<br>
+>Demonstrate basic statistical test knowledge on dataframes in pandas
+>Recognize other kinds of structured data such as networks, graphs, natural language
+
